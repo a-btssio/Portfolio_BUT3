@@ -1,0 +1,325 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'popin',sans-serif;
+    background-size:cover ;
+}
+.container{
+    width: 100%;
+    height: 50vh;
+    background-image: linear-gradient(rgb(0, 51, 96),transparent),url(Images/reseaux.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 0 8%;
+    position: relative;
+}
+
+nav{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 5px 0;
+}
+
+.logo {
+    width: 120px;
+    cursor: pointer;
+
+}
+
+nav ul{
+    flex: 1;
+    text-align: right;
+    padding-right: 30px;
+
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 30px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    position: relative;
+
+}
+
+nav ul li a::after{
+    content: '';
+    width: 0%;
+    height: 3px;
+    position: absolute;
+    bottom: -5px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #fff;
+    transition: width 0.3s;
+
+}
+
+nav ul li a:hover::after{
+    width: 50%;
+
+}
+
+
+
+.text-box{
+    color: #fff;
+    position: absolute;
+    bottom: 8%;
+}
+
+.text-box p{
+    font-size: 40px;
+    font-weight: 500;
+
+}
+
+.text-box h1{
+    font-size: 100px;
+    line-height: 100px;
+    margin-left: -10px;
+    color: transparent;
+    -webkit-text-stroke: 1px #fff;
+    background: url(Images/fond\ texte.png);
+    -webkit-background-clip: text;
+    background-position: 0 0;
+    animation: back 20s linear infinite;
+
+}
+
+@keyframes back{
+    100%{
+    background-position: 2000px 0;
+}
+}
+
+.text-box h3{
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.text-box .boite{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+
+}
+.text-box a{
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin-right: 20px;
+    border: 2px solid #fff;
+    display: flex;
+    align-items: center;
+
+
+
+}
+
+.text-box a span{
+    font-size: 30px;
+    line-height: 15px;
+    margin-left: 5px;
+
+}
+
+#icon{
+    width: 30px;
+    cursor: pointer;
+
+}
+
+
+
+.course{
+    width: 100%;
+    padding: 70px;
+    text-align: justify;
+    padding-top: 100px;
+    background-image: linear-gradient(#002c5b,transparent),url(Images/géométrie.jpg);
+
+}
+
+h1{
+    font-size: 36px;
+    font-weight: 600;
+    color: #fff;
+    margin: 10px;
+    
+}
+
+p {
+color: rgb(226, 219, 219);
+font-size: 14px;
+font-weight: 300;
+line-height: 22px;
+padding: 10px;
+margin: 10px;
+
+}
+
+.row{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+footer{
+
+    position: relative;
+    width: 100%;
+    /* background: #bababa; */
+    background: #0d1d75;
+    min-height: 100px;
+    padding: 20px 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 15px;
+
+
+}
+
+footer .menubas{
+
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+    flex-wrap: wrap;
+}
+
+footer .menubas li{
+    list-style: none;
+
+}
+
+footer .menubas li a {
+    font-size: 1.2em;
+    color: beige;
+    margin: 0 10px;
+    display: inline-block;
+    transition: 0.5s;
+    text-decoration: none;
+    opacity: 0.75;
+
+
+}
+
+footer .menubas li a:hover{
+    opacity: 1;
+
+}
+
+footer p {
+    color: beige;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-size: 0.9em;
+
+
+}
+
+footer .wave{
+    position: absolute;
+    top: -100px;
+    left: 0;
+    width: 100%;
+    height: 100px;
+   
+    background-size: 1000px 100px;
+    
+}
+
+footer .wave#wave1{
+    z-index: 1000;
+    opacity: 1;
+    bottom: 0;
+    animation: animatewave 4s linear infinite;
+    background:  url(Images/waveb.png);
+
+}
+
+@keyframes animatewave{
+    0%{
+        background-position-x:1000px ;
+    }
+
+    100%{
+        background-position-x:0px ;
+    }
+}
+
+
+footer .wave#wave2{
+    z-index: 999;
+    opacity: 0.5;
+    bottom: 10px;
+    animation: animatewave2 4s linear infinite;
+    background: url(Images/waveb.png);
+
+}
+
+@keyframes animatewave2{
+    0%{
+        background-position-x:0px ;
+    }
+
+    100%{
+        background-position-x:1000px ;
+    }
+}
+
+
+footer .wave#wave3{
+    z-index: 999;
+    opacity: 0.2;
+    bottom: 15px;
+    animation: animatewave 3s linear infinite;
+    background: url(Images/waveb.png);
+
+}
+
+@keyframes animatewave4{
+    0%{
+        background-position-x:0px ;
+    }
+
+    100%{
+        background-position-x:1000px ;
+    }
+}
+
+
+footer .wave#wave4{
+    z-index: 999;
+    opacity: 0.7;
+    bottom: 10px;
+    animation: animatewave2 3s linear infinite;
+    background: url(Images/waveb.png);
+
+}
+
+@keyframes animatewave2{
+    0%{
+        background-position-x:0px ;
+    }
+
+    100%{
+        background-position-x:1000px ;
+    }
+}

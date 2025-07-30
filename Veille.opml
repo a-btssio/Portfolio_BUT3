@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>A subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Technologie" title="Technologie">
+            <outline type="rss" text="Actualités intrusion-hacking-pare-feu" title="Actualités intrusion-hacking-pare-feu" xmlUrl="http://www.lemondeinformatique.fr/flux-rss/intrusion-hacking-pare-feu/rss.xml" htmlUrl="https://www.lemondeinformatique.fr/flux-rss/intrusion-hacking-pare-feu/rss.xml"/>
+            <outline type="rss" text="Sécurité" title="Sécurité" xmlUrl="http://www.01net.com/rss/RSS_ACTUS_securite.xml" htmlUrl="https://www.01net.com"/>
+            <outline type="rss" text="Actualités securite" title="Actualités securite" xmlUrl="http://www.lemondeinformatique.fr/flux-rss/thematique/securite/rss.xml" htmlUrl="https://www.lemondeinformatique.fr/flux-rss/securite/rss.xml"/>
+            <outline type="rss" text="CERT-FR" title="CERT-FR" xmlUrl="http://www.cert.ssi.gouv.fr/site/cert-fr.rss" htmlUrl="https://www.cert.ssi.gouv.fr"/>
+            <outline type="rss" text="Cyberguerre : les articles et enquêtes de la rédaction de Numerama" title="Cyberguerre : les articles et enquêtes de la rédaction de Numerama" xmlUrl="https://cyberguerre.numerama.com/feed/rss/" htmlUrl="https://www.numerama.com/cyberguerre/"/>
+            <outline type="rss" text="Blog officiel de Kaspersky" title="Blog officiel de Kaspersky" xmlUrl="http://blog.kaspersky.fr/feed/" htmlUrl="https://www.kaspersky.fr/blog"/>
+            <outline type="rss" text="Sécurité informatique : Toute l’actualité sur Le Monde.fr." title="Sécurité informatique : Toute l’actualité sur Le Monde.fr." xmlUrl="http://www.lemonde.fr/rss/tag/securite-informatique.xml" htmlUrl="https://www.lemonde.fr/securite-informatique/rss_full.xml"/>
+            <outline type="rss" text="Intelligence artificielle : Toute l’actualité sur Le Monde.fr." title="Intelligence artificielle : Toute l’actualité sur Le Monde.fr." xmlUrl="http://www.lemonde.fr/intelligence-artificielle/rss_full.xml" htmlUrl="https://www.lemonde.fr/intelligence-artificielle/rss_full.xml"/>
+        </outline>
+        <outline text="Juridique" title="Juridique">
+            <outline type="rss" text="Actualités juridique" title="Actualités juridique" xmlUrl="https://www.lemondeinformatique.fr/flux-rss/thematique/juridique/rss.xml" htmlUrl="https://www.lemondeinformatique.fr/flux-rss/juridique/rss.xml"/>
+            <outline type="rss" text="RSS - Actualité CNIL.fr" title="RSS - Actualité CNIL.fr" xmlUrl="http://www.cnil.fr/rss-cnil/" htmlUrl="https://www.cnil.fr/fr/rss.xml"/>
+        </outline>
+    </body>
+</opml>

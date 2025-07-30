@@ -1,0 +1,130 @@
+Cybersécurité
+
+
+Kali Linux : Compétences en tests d'intrusion de base dans un environnement contrôlé (Niveau : 3).
+
+Stormshield : Expertise en VPN et en création de règles de filtrage pour renforcer la sécurité réseau (Niveau : 3).
+
+Pfsense : Mise en place de pare-feu incluant le filtrage et les portails captifs (Niveau : 2).
+
+VPN : Utilisation avancée pour établir des connexions sécurisées à distance (Niveau : 3).
+
+Cisco : Compétences avec du matériel réseau tel que commutateurs et routeurs, notamment pour la sécurité, la création de VLANs et le routage (Niveau : 3).
+
+IPv6 : Maîtrise dans la configuration et la gestion des adresses IPv6 pour renforcer la sécurité réseau (Niveau : 4).
+
+WiFi : Implémentation et gestion des réseaux sans fil en toute sécurité.
+
+EBIOS : Utilisation de la méthode EBIOS pour l'analyse et la gestion des risques liés à la cybersécurité (Niveau : 2).
+
+
+
+Outils d'analyse et de monitoring
+
+
+SPLUNK : Compétence en gestion et analyse des journaux système (Niveau : 3).
+
+ELK (Elasticsearch, Logstash, Kibana) : Recherche et visualisation de données pour la sécurité et le suivi des infrastructures (Niveau : 3).
+
+Pile Grafana, Telegraph et InfluxDB : Expertise dans la collecte, le stockage et la visualisation de métriques pour le monitoring avancé et la journalisation (Niveau : 2).
+
+
+
+
+Scripting et Automatisation
+
+
+Script PowerShell : Scripting avancé pour automatiser et sécuriser des tâches sous Windows (Niveau : 3).
+
+Script Bash : Scripting Shell pour des tâches automatisées en environnement Linux (Niveau : 4).
+
+Cloud (Ansible) : Utilisation d'Ansible pour l'automatisation et la gestion sécurisée d'infrastructures dans le cloud (Niveau : 1).
+
+
+Gestion de projet
+
+
+Gestion de projet : Capacité à planifier, organiser et superviser efficacement des projets, en respectant les délais et les objectifs (Niveau : 2).
+
+Téléphonie
+
+
+Téléphonie IP : Compétences en implémentation et gestion de la voix sur IP, incluant la configuration de systèmes permettant la communication via un réseau Internet (VoIP) (Niveau : 2).
+
+
+Développement Web
+
+
+HTML/CSS : Connaissance en création et conception de pages internet (Niveau : 3).
+
+
+Systèmes d'exploitation
+
+Debian : Utilisé pour la mise en place de services critiques (DNS, DHCP, journalisation) avec une approche sécurité.
+
+Windows Serveur : Configuration sécurisée de services tels que :
+
+Gestion des comptes utilisateurs : Gestion, création et administration des comptes utilisateurs dans un environnement Windows (Niveau : 3).
+
+GPO (Group Policy Objects) : Mise en œuvre de stratégies de groupe pour la gestion centralisée de politiques de sécurité et configurations système (Niveau : 3).
+
+
+
+Cybersécurité
+
+    Kali Linux : Compétences en tests d'intrusion de base dans un environnement contrôlé ◉◉◉◎◎.
+
+    Stormshield : Expertise en VPN et en création de règles de filtrage pour renforcer la sécurité réseau ◉◉◉◎◎.
+
+    Pfsense : Mise en place de pare-feu incluant le filtrage et les portails captifs ◉◉◎◎◎.
+
+        VPN : Utilisation avancée pour établir des connexions sécurisées à distance ◉◉◉◎◎.
+
+    Cisco : Compétences avec du matériel réseau tel que commutateurs et routeurs, notamment pour la sécurité, la création de VLANs et le routage ◉◉◉◎◎.
+
+    IPv6 : Maîtrise dans la configuration et la gestion des adresses IPv6 pour renforcer la sécurité réseau ◉◉◉◉◎.
+
+    WiFi : Implémentation et gestion des réseaux sans fil en toute sécurité.
+
+    EBIOS : Utilisation de la méthode EBIOS pour l'analyse et la gestion des risques liés à la cybersécurité ◉◉◎◎◎.
+
+
+Outils d'analyse et de monitoring
+
+    SPLUNK : Compétence en gestion et analyse des journaux système ◉◉◉◎◎.
+
+    ELK (Elasticsearch, Logstash, Kibana) : Recherche et visualisation de données pour la sécurité et le suivi des infrastructures ◉◉◉◎◎.
+
+        Pile Grafana, Telegraph et InfluxDB : Expertise dans la collecte, le stockage et la visualisation de métriques pour le monitoring avancé et la journalisation ◉◉◎◎◎.
+
+
+
+
+Scripting et Automatisation
+    Script PowerShell : Scripting avancé pour automatiser et sécuriser des tâches sous Windows ◉◉◉◎◎.
+
+    Script Bash : Scripting Shell pour des tâches automatisées en environnement Linux ◉◉◉◉◎.
+
+    Cloud (Ansible) : Utilisation d'Ansible pour l'automatisation et la gestion sécurisée d'infrastructures dans le cloud ◉◎◎◎◎.
+
+
+
+Gestion de projet
+
+    Gestion de projet : Capacité à planifier, organiser et superviser efficacement des projets, en respectant les délais et les objectifs ◉◉◎◎◎.
+
+Téléphonie
+    Téléphonie IP : Compétences en implémentation et gestion de la voix sur IP, incluant la configuration de systèmes permettant la communication via un réseau Internet (VoIP) ◉◉◎◎◎.
+
+
+Développement Web
+    HTML/CSS : Connaissance en création et conception de pages internet ◉◉◉◎◎.
+
+Systèmes d'exploitation
+    Debian : Utilisé pour la mise en place de services critiques (DNS, DHCP, journalisation) avec une approche sécurité.
+
+    Windows Serveur : Configuration sécurisée de services tels que :
+
+    Gestion des comptes utilisateurs : Gestion, création et administration des comptes utilisateurs dans un environnement Windows ◉◉◉◎◎.
+
+    GPO (Group Policy Objects) : Mise en œuvre de stratégies de groupe pour la gestion centralisée de politiques de sécurité et configurations système ◉◉◉◎◎.
